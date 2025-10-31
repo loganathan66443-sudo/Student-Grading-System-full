@@ -1,0 +1,12 @@
+{
+  "name": "student-grading-web",
+  "version": "1.0.0",
+  "description": "Student Grading System using Node.js and Express",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
